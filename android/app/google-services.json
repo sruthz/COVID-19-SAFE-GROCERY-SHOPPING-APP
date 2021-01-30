@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1081865058972",
+    "firebase_url": "https://covid-grocery.firebaseio.com",
+    "project_id": "covid-grocery",
+    "storage_bucket": "covid-grocery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081865058972:android:5899792af29403a65ccb59",
+        "android_client_info": {
+          "package_name": "com.example.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081865058972-mrg58u9g9ad6dobd5ng6g0ra1gn51jc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxfzU5iHX7wM9-J3Mk33AbqEoGPGMYbB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081865058972-mrg58u9g9ad6dobd5ng6g0ra1gn51jc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
